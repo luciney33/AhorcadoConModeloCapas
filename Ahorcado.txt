@@ -1,0 +1,5 @@
+Hacer un Juego AHORCADO va a tener:
+1 usuario: Jugador (tiene que adivinar la palabra mediante letras)
+1 usuario: Adminstrador (sabe la palabra y es el que se encarga de validar la letra o no)
+Categoria: personajes(marvel)
+Dibujo : por cada letra mal se dibujara una parte del cuerpo del muñequito
